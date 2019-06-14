@@ -1,4 +1,4 @@
 ﻿# Introduction
 Hello. My name is Najib.
 ## Disclamer
-Just my opinion.
+Just my opinion. OK!
